@@ -1,12 +1,15 @@
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ahsanu123&theme=dracula&show_icons=true&count_private=true)
-<br>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanu123&layout=compact)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<span align="center">
+<h3>Electronic Engineering Student</h3>  
+<a href="https://www.artstation.com/caasperart" target="blank">
+  <img src="https://img.shields.io/badge/ARTSTATION-CAASPERART-blue?logoColor=violet&style=for-the-badge"/>
+  <img src="https://pbs.twimg.com/profile_images/2481837471/eyss4bylcgbdy7ysr2xj_400x400.jpeg" width="30" height="30">
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  
+</span>
+ 
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanu123&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahsanu123&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahsanu123&theme=dracula)
+  
+Made with ♥️ by AH...
