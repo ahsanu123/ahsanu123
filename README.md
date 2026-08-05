@@ -15,5 +15,4 @@
 
 </p> 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=now+trying+to+be+embedded+rustaceans;Made+with+%E2%99%A5%EF%B8%8F+by+AH...)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=now+trying+to+be+embedded+rustaceans;Made+with+%E2%99%A5%EF%B8%8F+by+AH...)
